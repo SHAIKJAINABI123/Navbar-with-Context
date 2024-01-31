@@ -1,0 +1,11 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.dark-theme {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.light-theme {
+  background-color: #ffffff;
+  color: #000000;
+}
